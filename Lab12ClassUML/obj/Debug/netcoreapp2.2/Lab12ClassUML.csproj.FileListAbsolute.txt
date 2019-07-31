@@ -1,0 +1,11 @@
+C:\Users\tweed\source\repos\Lab12ClassUML\Lab12ClassUML\bin\Debug\netcoreapp2.2\Lab12ClassUML.deps.json
+C:\Users\tweed\source\repos\Lab12ClassUML\Lab12ClassUML\bin\Debug\netcoreapp2.2\Lab12ClassUML.runtimeconfig.json
+C:\Users\tweed\source\repos\Lab12ClassUML\Lab12ClassUML\bin\Debug\netcoreapp2.2\Lab12ClassUML.runtimeconfig.dev.json
+C:\Users\tweed\source\repos\Lab12ClassUML\Lab12ClassUML\bin\Debug\netcoreapp2.2\Lab12ClassUML.dll
+C:\Users\tweed\source\repos\Lab12ClassUML\Lab12ClassUML\bin\Debug\netcoreapp2.2\Lab12ClassUML.pdb
+C:\Users\tweed\source\repos\Lab12ClassUML\Lab12ClassUML\obj\Debug\netcoreapp2.2\Lab12ClassUML.csprojAssemblyReference.cache
+C:\Users\tweed\source\repos\Lab12ClassUML\Lab12ClassUML\obj\Debug\netcoreapp2.2\Lab12ClassUML.csproj.CoreCompileInputs.cache
+C:\Users\tweed\source\repos\Lab12ClassUML\Lab12ClassUML\obj\Debug\netcoreapp2.2\Lab12ClassUML.AssemblyInfoInputs.cache
+C:\Users\tweed\source\repos\Lab12ClassUML\Lab12ClassUML\obj\Debug\netcoreapp2.2\Lab12ClassUML.AssemblyInfo.cs
+C:\Users\tweed\source\repos\Lab12ClassUML\Lab12ClassUML\obj\Debug\netcoreapp2.2\Lab12ClassUML.dll
+C:\Users\tweed\source\repos\Lab12ClassUML\Lab12ClassUML\obj\Debug\netcoreapp2.2\Lab12ClassUML.pdb
